@@ -191,97 +191,97 @@ e94901f 15 days ago
     <value>A conta existe a uma semana</value>
   </data>
   <data name="AcquireRate" xml:space="preserve">
-    <value>Acquire Rate</value>
+    <value>Taxas de aquisição</value>
   </data>
   <data name="Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Ação</value>
   </data>
   <data name="ActionGroup" xml:space="preserve">
-    <value>Action Group</value>
+    <value>Grupo de Ações</value>
   </data>
   <data name="ActionGroups" xml:space="preserve">
-    <value>Action Groups</value>
+    <value>Grupos de Ações</value>
   </data>
   <data name="Actions" xml:space="preserve">
-    <value>Actions</value>
+    <value>Ações</value>
   </data>
   <data name="ActionToPeform" xml:space="preserve">
-    <value>Action To Peform</value>
+    <value>Ação a Realizar</value>
   </data>
   <data name="ActionToPerformWithResponse" xml:space="preserve">
-    <value>Action To Perform With Response</value>
+    <value>Ação a Realizar Com Resposta</value>
   </data>
   <data name="ActionToPerformWithTranslation" xml:space="preserve">
-    <value>Action To Perform With Translation</value>
+    <value>Ação a Realizar com Tradução</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Adicionar</value>
   </data>
   <data name="AddClause" xml:space="preserve">
-    <value>Add Clause</value>
+    <value>Adicionar Cláusula</value>
   </data>
   <data name="AddCommand" xml:space="preserve">
-    <value>Add Command</value>
+    <value>Adicionar Comando</value>
   </data>
   <data name="AddCurrencyRank" xml:space="preserve">
-    <value>Add Currency/Rank</value>
+    <value>Add Moeda/Classificação</value>
   </data>
   <data name="AddFavoriteStreamerAlreadyDone" xml:space="preserve">
-    <value>This user already exists in this group.</value>
+    <value>Já existe este usuário no grupo.</value>
   </data>
   <data name="AddFavoriteStreamerNotFound" xml:space="preserve">
-    <value>Could not find a user by that name.</value>
+    <value>Não foi possível encontrar um usuário com este nome.</value>
   </data>
   <data name="AddFavoriteTeamAlreadyDone" xml:space="preserve">
-    <value>You have already favorited this team.</value>
+    <value>Você já favoritou este time.</value>
   </data>
   <data name="AddFavoriteTeamNotFound" xml:space="preserve">
-    <value>Could not find a team by that name.</value>
+    <value>Não foi possível encontrar um time com este nome.</value>
   </data>
   <data name="AddInventory" xml:space="preserve">
-    <value>Add Inventory</value>
+    <value>Adicionar Inventário</value>
   </data>
   <data name="AddItem" xml:space="preserve">
-    <value>Add Item</value>
+    <value>Adicionar Item</value>
   </data>
   <data name="AddNewPair" xml:space="preserve">
-    <value>Add New Pair</value>
+    <value>Adicionar novo Par</value>
   </data>
   <data name="AddNewRank" xml:space="preserve">
-    <value>Add New Rank</value>
+    <value>Adicionar nova Classificação</value>
   </data>
   <data name="AddNewVariable" xml:space="preserve">
-    <value>Add New Variable</value>
+    <value>Adicionar nova Variável</value>
   </data>
   <data name="AddOverlayWidget" xml:space="preserve">
-    <value>Add Overlay Widget</value>
+    <value>Adicionar Widget de sobreposição</value>
   </data>
   <data name="AddQuote" xml:space="preserve">
-    <value>Add Quote</value>
+    <value>Adicionar Citação</value>
   </data>
   <data name="AddToAllChatUsers" xml:space="preserve">
-    <value>Add to all chat users</value>
+    <value>Adicionar a todos usuários do chat</value>
   </data>
   <data name="AddToSpecificUser" xml:space="preserve">
-    <value>Add to specific user</value>
+    <value>Adicionar a um usuário específico</value>
   </data>
   <data name="AddToUser" xml:space="preserve">
-    <value>Add to user</value>
+    <value>Adicionar ao usuário</value>
   </data>
   <data name="Adult" xml:space="preserve">
     <value>18+</value>
   </data>
   <data name="Advanced" xml:space="preserve">
-    <value>Advanced</value>
+    <value>Avançado</value>
   </data>
   <data name="AdvancedCommand" xml:space="preserve">
-    <value>Advanced Command</value>
+    <value>Comando Avançado</value>
   </data>
   <data name="AgeRating" xml:space="preserve">
-    <value>Age Rating</value>
+    <value>Classificação Etária</value>
   </data>
   <data name="Alerts" xml:space="preserve">
-    <value>Alerts</value>
+    <value>Alertas</value>
   </data>
   <data name="AllowCommandsOnlyInYourChannelDuringACoStream" xml:space="preserve">
     <value>Allow Commands Only in Your Channel During a Co-Stream</value>
